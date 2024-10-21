@@ -19,6 +19,6 @@ public class Main {
                 System.out.println("No obrim les comportes. ");
             }
         } while (litres < 90);
-
+        //estem a la branca 2
     }
 }
